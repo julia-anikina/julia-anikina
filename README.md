@@ -1,0 +1,3 @@
+- hello, im Julia
+- I study and develop programming skills in different languages
+-I also like to solve impossible tasks
